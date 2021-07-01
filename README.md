@@ -1,0 +1,1 @@
+# ninja_code-factory-go
